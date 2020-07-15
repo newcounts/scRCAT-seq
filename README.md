@@ -2,7 +2,6 @@
 # scRCAT-seq project  
 
 
-
 * Here is the code for our scRCAT-seq project as described in the paper [scCAT-seq: single-cell identification and quantification of mRNA isoforms by cost-effective short-read sequencing of cap and tail](https://www.biorxiv.org/content/10.1101/2019.12.11.873505v1). scRCAT-seq is designed to simultaneously capture RNA transcript start sites(TSSs) and transcript end sites(TESs) on single-cell level.
 
 ---
